@@ -1,2 +1,2 @@
-# Pic2Tone
+# Word2Tone
 Convert what you type to weird or amazing tone.
